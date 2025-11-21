@@ -2,7 +2,7 @@
 
 <h1 align="center">👋 Hi, I'm <span style="color:#a64bf4;">Anel Biju</span></h1>
 
-<h3 align="center">🔐 Cybersecurity & AI Engineering Student  
+<h3 align="center">🔐 Cybersecurity Engineering Student  
 ⚡ Building secure systems with AI-driven threat detection</h3>
 
 ---
