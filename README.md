@@ -1,10 +1,5 @@
 <!-- Enhanced Cyberpunk README (Futuristic AI Circuit Board Banner) -->
 
-<p align="center">
-  <!-- Banner: change src to ./banner.png if you upload the banner into repo root -->
-  <img alt="Anel Biju - Futuristic AI Circuit Board" src="/mnt/data/Screenshot 2025-11-21 205231.png" style="max-width:100%;border-radius:12px;box-shadow:0 8px 30px rgba(166,75,244,.18)"/>
-</p>
-
 <h1 align="center">👋 Hi, I'm <span style="color:#a64bf4;">Anel Biju</span></h1>
 <h3 align="center">🔐 Cybersecurity Engineering Student — <em>Building secure systems with AI-driven threat detection</em></h3>
 
